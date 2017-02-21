@@ -1,4 +1,4 @@
-
+console.log('starting notes.js');
 
 
 // ======== UP TO SECTION 3 LECTURE 11 =========
